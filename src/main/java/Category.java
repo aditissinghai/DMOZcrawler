@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Collection;
 
+/**
+ * An object class for representing a category.
+ */
 public class Category {
     int id;
     String name;
